@@ -1,0 +1,1 @@
+from postgres:12-alphine
